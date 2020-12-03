@@ -1,0 +1,119 @@
+.wrap{
+	margin : auto;
+	overflow: hidden;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 140%;
+}
+
+header{
+	overflow:hidden;	
+	background: #e6f2ff;
+    font-family: 'Josefin Sans', sans-serif;
+	height:120px;
+}
+
+.scroll{
+	padding-top:2%;
+	height: 600px;
+	overflow-y :scroll; 
+	overflow-x: hidden; 
+	margin: 0;
+}
+
+.nav li{
+	display:inline;
+	text-decoration: none;
+	font-size: 130%;
+}
+
+.nav{
+	margin-left:10%;
+}
+
+.scroll section img{
+	height:500px;
+	width:320px;
+}
+
+.scroll .sec img{
+    height:5%;
+    width:5%;
+}
+
+.primary{
+    margin-bottom: 3%;
+}
+
+.dif {
+    list-style-type: none;
+}
+
+header h1{
+    text-align: center;
+    font-size: 350%;
+    padding-top: 1%;
+}
+
+li a {
+	text-decoration: none;
+	margin-right: 2%;
+	color: black;
+}
+
+li a:hover {
+    color:#D8BFD8;
+}
+
+.details{
+    margin-top: 4%;
+}
+
+
+.fa {
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    margin-right:5%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+    border-radius: 50%;	
+    background: #3B5998;
+    color: white;
+}
+
+.fa-twitter {
+    border-radius: 50%;
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-youtube {
+    border-radius: 50%;
+    background: #FF0000;
+    color: white;
+}
+
+.fa-linkedin {
+    border-radius: 50%;
+    background: #0077B5;
+    color: white;
+}
+
+.tri{
+    margin-left: 1%;
+}
+
+.foot{
+    margin-left: 75%;
+
+}
+
+.quote{
+	margin-bottom:2%;
+}
